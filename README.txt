@@ -1,6 +1,6 @@
 
 TITLE: 
-Traveler - 100% Fully Responsive Free HTML5 Bootstrap Template
+TravelScape - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
 DESIGNED & DEVELOPED by FreeHTML5.co
