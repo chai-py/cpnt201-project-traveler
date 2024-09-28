@@ -1,4 +1,4 @@
-# cpnt201-project-TravelScape
+# cpnt201-project-Fitness
 
 Web Link : https://chai-py.github.io/cpnt201-project-traveler/index.html
 
